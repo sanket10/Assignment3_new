@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PrimeNumber</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="next">NEXT</string>
+    <string name="question">QUESTION</string>
+    <string name="Restart">RESTART</string>
+    <string name="hint">HINT</string>
+    <string name="cheat">CHEAT</string>
+    <string name="hint_layout">Hint_Layout</string>
+    <string name="cheat_layout">Cheat_Layout</string>
+    <string name="action_see_internal_file">See Your Favorite Question</string>
+    <string name="action_generate_external_file">Generate Complete Result file</string>
+    <string name="action_generate_internal_file">Add To Favorite</string>
+    <string name="hint_dialog_message">Are You Sure</string>
+    <string name="hint_dialog_title">HINT</string>
+    <string name="next_question_dialog_message">Press button for start new quiz</string>
+    <string name="next_question_dialog_title">No Quiz Remain</string>
+    <string name="next_question_hdialog_message">Press button for start new quiz you have all 5 hint remain so you got improvement</string>
+    <string name="next_question_hdialog_title">No Quiz Remain</string>
+    <string name="cheat_dialog_message">Are You Sure(if you cheat your best performance reduce by 2)</string>
+    <string name="cheat_dialog_title">Cheat</string>
+
+</resources>

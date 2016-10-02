@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.happy.primeno.MainActivity">
+    <item
+        android:id="@+id/action_generate_external_file"
+        android:orderInCategory="100"
+        android:title="@string/action_generate_external_file"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_generate_external_file_private"
+        android:orderInCategory="100"
+        android:title="Generate Private External File"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_generate_internal_file"
+        android:orderInCategory="100"
+        android:title="@string/action_generate_internal_file"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_see_internal_file"
+        android:orderInCategory="100"
+        android:title="@string/action_see_internal_file"
+        app:showAsAction="never" />
+</menu>
